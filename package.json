@@ -1,0 +1,8 @@
+{
+  "name": "css-samples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Kachulio1/css-samples.git",
+  "author": "kachulio1 <jngugi88@gmail.com>",
+  "license": "MIT"
+}
